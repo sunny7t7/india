@@ -144,7 +144,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="News", Aaj Tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rOrQj07.png" group-title="News", ABP News
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8?checkedby:hlscat.com
+https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
 #EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhhVdd9KCZkn39j5bd_cfAPPOFxAxSq2939Sb8HTw=s900-c-k-c0x00ffffff-no-rj" group-title="News", India TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="News", NDTV India
@@ -155,8 +155,6 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 http://pn.tvott.info:80/477845056156344/477845056156344/83625
 #EXTINF: -1 group-title="News", NEWS X
 http://pn.tvott.info:80/477845056156344/477845056156344/83583
-#EXTINF: -1 tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="News", ABP NEWS INDIA
-http://rv.therevenge.co:80/live/242424/242424/83688.m3u8?checkedby:hlscat.com
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News", NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TSvkIfA.png" group-title="News", DD News
@@ -581,6 +579,8 @@ http://209.126.120.153:80/hls/colorsbangla.m3u8
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/fb/81/ea/fb81ea77d70e3e57ce09ef50bd91710a.jpg" group-title="Bangla India", STAR JALSHA HD
 http://rv.therevenge.co:80/live/242424/242424/83852.m3u8?checkedby:hlscat.com
+#EXTINF: -1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" group-title="Bangla India", Star Jalsha movies HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/b6508ba1a21aa79.m3u8
 #EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjyaZ7wUCDEHCqccSAJWD3PQ4ilJIsIUWMhcNl8zQ=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla India", ZEE BANGLA CINEMA
 http://rv.therevenge.co:80/live/242424/242424/83792.m3u8?checkedby:hlscat.com
 #EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjyaZ7wUCDEHCqccSAJWD3PQ4ilJIsIUWMhcNl8zQ=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla India", ZEE BANGLA CINEMA
