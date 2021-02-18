@@ -355,16 +355,14 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist.m3u8
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF: -1 group-title="Music", MTV BEATS HD
 http://pn.tvott.info:80/477845056156344/477845056156344/83649
-#EXTINF: -1 tvg-id="1145" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music", MTV HD Plus
-https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music", MTV PLUS HD
+http://pn.tvott.info:80/477845056156344/477845056156344/83648
 #EXTINF: -1 group-title="Music", HUNGAMA KADAK HITS HD
 http://pn.tvott.info:80/477845056156344/477845056156344/83656
 #EXTINF: -1 group-title="Music", HUNGAMA DIL SE HD
 http://pn.tvott.info:80/477845056156344/477845056156344/83657
 #EXTINF: -1 group-title="Music", HUNGAMA POP PATAKA HD
 http://pn.tvott.info:80/477845056156344/477845056156344/83654
-#EXTINF: -1 group-title="Music", MTV PLUS HD
-http://pn.tvott.info:80/477845056156344/477845056156344/83648
 #EXTINF: -1 group-title="Music", HUNGAMA NAZRANA HD
 http://pn.tvott.info:80/477845056156344/477845056156344/83655
 #EXTINF: -1 group-title="Music", ZOOM TV HD
@@ -377,16 +375,12 @@ https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 http://pn.tvott.info:80/477845056156344/477845056156344/83593
 #EXTINF: -1 group-title="Music", 9X JALWA
 http://pn.tvott.info:80/477845056156344/477845056156344/83694
-#EXTINF: -1 group-title="Music", 9X MUSIC
-http://rv.therevenge.co:80/live/242424/242424/83550.m3u8?checkedby:hlscat.com
-#EXTINF: -1 group-title="Music", Music india
-http://pn.tvott.info:80/477845056156344/477845056156344/83647
 #EXTINF: -1 group-title="Music", ZOOM
 http://rv.therevenge.co:80/live/242424/242424/83691.m3u8?checkedby:hlscat.com
-#EXTINF: -1 group-title="Music", ZING
-http://pn.tvott.info:80/477845056156344/477845056156344/83713
 #EXTINF: -1 group-title="Music", MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF: -1 group-title="Music", Shemaroo Bollywood clasic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8?checkedby:hlscat.com
 #EXTINF: -1 group-title="Bhakti/devotional", Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF: -1 group-title="Bhakti/devotional", SADHNA PLUS
@@ -467,6 +461,414 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English", Sony Movies Action
 http://51.52.156.22:8888/http/009
+#EXTINF: -1 group-title="Sports World", UK: Racing FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/709536
+#EXTINF: -1 group-title="Sports World", UK Sky Sports Premier League
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174272
+#EXTINF: -1 group-title="Sports World", UK Sky Sports Football
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174261
+#EXTINF: -1 group-title="Sports World", UK Sky Sports News HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174269
+#EXTINF: -1 group-title="Sports World", UK Sky Sports Arena
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174256
+#EXTINF: -1 group-title="Sports World", UK Sky Sports Action
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174254
+#EXTINF: -1 group-title="Sports World", UK Sky Sports MIX
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174267
+#EXTINF: -1 group-title="Sports World", UK Sky Sports Cricket
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174257
+#EXTINF: -1 group-title="Sports World", UK Sky Sports F1
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174259
+#EXTINF: -1 group-title="Sports World", UK-L: SKY SPORTS GOLF HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391434
+#EXTINF: -1 group-title="Sports World", UK BT Sports 2
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174237
+#EXTINF: -1 group-title="Sports World", UK BT Sports 3
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174239
+#EXTINF: -1 group-title="Sports World", UK BT Sports ESPN
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174241
+#EXTINF: -1 group-title="Sports World", UK BT Sports Extra 2 (live match only)
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174243
+#EXTINF: -1 group-title="Sports World", UK BT Sports Extra 3 (live match only)
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174244
+#EXTINF: -1 group-title="Sports World", UK BT Sports Extra 4 (live match only)
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174245
+#EXTINF: -1 group-title="Sports World", BT Sports EXTRA 4 UK
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/714444
+#EXTINF: -1 group-title="Sports World", UK MUTV HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189978
+#EXTINF: -1 group-title="Sports World", UK EuroSport 1 GCN
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174250
+#EXTINF: -1 group-title="Sports World", UK EuroSport 2 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174251
+#EXTINF: -1 group-title="Sports World", UK UFC FIGHT Pass HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174252
+#EXTINF: -1 group-title="Sports World", UK Free Sports
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174253
+#EXTINF: -1 group-title="Sports World", UK-L: FREESPORTS SD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391307
+#EXTINF: -1 group-title="Sports World", UK PREMIER SPORTS 1
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391419
+#EXTINF: -1 group-title="Sports World", UK-L: Eir SPORTS 1 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391447
+#EXTINF: -1 group-title="Sports World", UK EuroSport 1
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391450
+#EXTINF: -1 group-title="Sports World", UK-L: WWE NETWORK FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391457
+#EXTINF: -1 group-title="Sports World", UK FIGHT Channel
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391471
+#EXTINF: -1 group-title="Sports World", UK-L: MOTOR TREND FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391472
+#EXTINF: -1 group-title="Sports World", UK-L: UFC TV FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391464
+#EXTINF: -1 group-title="Sports World", UK-L: WWE SUPERSLAM HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391458
+#EXTINF: -1 group-title="Sports World", UK BT Sports ESPN 1 HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515737
+#EXTINF: -1 group-title="Sports World", UK BT Sports Extra 1 (live match only)
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174242
+#EXTINF: -1 group-title="Sports World", UK: Box Upfront
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391466
+#EXTINF: -1 group-title="Sports World", UK-L: MOTORSPORT FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391473
+#EXTINF: -1 group-title="Sports World", UK PREMIER SPORTS 2
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391420
+#EXTINF: -1 group-title="Sports World", UK: Premier Sports 1 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/229003
+#EXTINF: -1 group-title="Sports World", IRE-L: VIRGIN MEDIA SPORT HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391167
+#EXTINF: -1 group-title="Sports World", UK: Premier Sports
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/227854
+#EXTINF: -1 group-title="Sports World", AR beIN Sports 12 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515977
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports 14 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515980
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports 15 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515981
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports 1 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515957
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports 2 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515959
+#EXTINF: -1 group-title="Sports World", AR beIN Sports 3 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515962
+#EXTINF: -1 group-title="Sports World", AR beIN Sports 4 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515964
+#EXTINF: -1 group-title="Sports World", AR beIN Sports 5 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515966
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports 6 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515967
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports 7 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515968
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports 8 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515969
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports 9 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515970
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports 10 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515973
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515995
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports News HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515996
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports Max 4
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/516009
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports Max 5
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/516010
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports Max 6
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/516011
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports Max 7
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/516012
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports Max 9
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/516014
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports Max 10
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/516015
+#EXTINF: -1 group-title="Sports World", AR: beIN Extreme Sports HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/516031
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports 3 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/518088
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports 4 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/518089
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports NBA HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/516016
+#EXTINF: -1 group-title="Sports World", AR: beIN Sports 15 HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/943534
+#EXTINF: -1 group-title="Sports World", USA beIN Sports LHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/220395
+#EXTINF: -1 group-title="Sports World", US: BeIN SPORTS 5 | HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/220508
+#EXTINF: -1 group-title="Sports World", US: BeIN SPORTS 6 | HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/220509
+#EXTINF: -1 group-title="Sports World", US: BeIN SPORTS 7 | HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/220510
+#EXTINF: -1 group-title="Sports World", US: BeIN SPORTS 8 | HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/220511
+#EXTINF: -1 group-title="Sports World", US: BeIN SPORTS | HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/220512
+#EXTINF: -1 group-title="Sports World", NL: Ziggo Sport Select FHD 1080
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/222493
+#EXTINF: -1 group-title="Sports World", NL: Ziggo Select HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/222518
+#EXTINF: -1 group-title="Sports World", NL: Sport 1 Voetbal
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/222495
+#EXTINF: -1 group-title="Sports World", NL : Ziggo Sport.Voetbal
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/222517
+#EXTINF: -1 group-title="Sports World", NL : Ziggo Sport Extra2
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/222521
+#EXTINF: -1 group-title="Sports World", NL: FOX Sports 1 HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/222508
+#EXTINF: -1 group-title="Sports World", NL: Ziggo Extra1
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/222522
+#EXTINF: -1 group-title="Sports World", NL: FOX Sports 2 HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/222509
+#EXTINF: -1 group-title="Sports World", NL: FOX Sports 3 HD ( 1080P )
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/222516
+#EXTINF: -1 group-title="Sports World", NL: Fox Sports 3
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/222503
+#EXTINF: -1 group-title="Sports World", NL: Fox Sports 4 HD ( 1080P )
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/222514
+#EXTINF: -1 group-title="Sports World", NL: Fox Sports 4
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/222502
+#EXTINF: -1 group-title="Sports World", NL: Fox Sports 5
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/222501
+#EXTINF: -1 group-title="Sports World", NL: Fox Sports 5 HD ( 1080P )
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/222515
+#EXTINF: -1 group-title="Sports World", NL: Fox Sports 6
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/222500
+#EXTINF: -1 group-title="UK entertainment", UK Paramount
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189873
+#EXTINF: -1 group-title="UK entertainment", UK 5 Star
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189874
+#EXTINF: -1 group-title="UK entertainment", UK DMAX HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189939
+#EXTINF: -1 group-title="UK entertainment", UK Drama
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189940
+#EXTINF: -1 group-title="UK entertainment", UK Life Time HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189964
+#EXTINF: -1 group-title="UK entertainment", UK SKY One
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189999
+#EXTINF: -1 group-title="UK entertainment", UK Sky News
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190003
+#EXTINF: -1 group-title="UK entertainment", UK TLC
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190017
+#EXTINF: -1 group-title="UK entertainment", UK E4
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391210
+#EXTINF: -1 group-title="UK entertainment", UK-L: CRUISE 1ST TV SD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391216
+#EXTINF: -1 group-title="UK entertainment", UK 5 USA
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391253
+#EXTINF: -1 group-title="UK entertainment", UK CBS DRAMA
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391272
+#EXTINF: -1 group-title="UK entertainment", UK TRU TV
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391499
+#EXTINF: -1 group-title="UK entertainment", UK Alibi
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391257
+#EXTINF: -1 group-title="UK entertainment", UK CHALLENGE TV
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391270
+#EXTINF: -1 group-title="UK entertainment", UK Sky Atlantic
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190001
+#EXTINF: -1 group-title="UK entertainment", UK Good Food
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189952
+#EXTINF: -1 group-title="UK entertainment", UK Nat Geo Wild
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189980
+#EXTINF: -1 group-title="UK entertainment", UK Food Network
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189947
+#EXTINF: -1 group-title="UK entertainment", UK True Entertainment
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190021
+#EXTINF: -1 group-title="UK entertainment", UK-L: SKY PRE ORDER 1 HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391338
+#EXTINF: -1 group-title="UK entertainment", UK-L: PICK FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391327
+#EXTINF: -1 group-title="UK entertainment", UK-L: ANIMAL PLANET
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391170
+#EXTINF: -1 group-title="UK entertainment", UK Sky Arts
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190000
+#EXTINF: -1 group-title="UK entertainment", UK Sky Witness
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391206
+#EXTINF: -1 group-title="UK entertainment", UK Syfy
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391330
+#EXTINF: -1 group-title="UK entertainment", UK: Home SD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/1009216
+#EXTINF: -1 group-title="UK entertainment", UK Paramount
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189873
+#EXTINF: -1 group-title="Uk General", UK 5USA
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189875
+#EXTINF: -1 group-title="Uk General", UK Aaj Tak
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189876
+#EXTINF: -1 group-title="Uk General", UK ABP News
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189878
+#EXTINF: -1 group-title="Uk General", UK AL JAZEERA HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189879
+#EXTINF: -1 group-title="Uk General", UK Animal Planet
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189882
+#EXTINF: -1 group-title="Uk General", UK At The Races
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189885
+#EXTINF: -1 group-title="Uk General", UK B4U PLUS
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189888
+#EXTINF: -1 group-title="Uk General", UK BBC 1
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189890
+#EXTINF: -1 group-title="Uk General", UK BBC 2
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189891
+#EXTINF: -1 group-title="Uk General", UK BBC 4
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189892
+#EXTINF: -1 group-title="Uk General", UK BBC News HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189894
+#EXTINF: -1 group-title="Uk General", UK BBC One Scotland
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189896
+#EXTINF: -1 group-title="Uk General", UK BBC One Wales
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189897
+#EXTINF: -1 group-title="Uk General", UK BBC Parliament
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189898
+#EXTINF: -1 group-title="Uk General", UK BBC Two Northern Ireland
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189900
+#EXTINF: -1 group-title="Uk General", UK BBC Two Scotland
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189901
+#EXTINF: -1 group-title="Uk General", UK BBC Two Wales
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189902
+#EXTINF: -1 group-title="Uk General", UK BBC World News
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189903
+#EXTINF: -1 group-title="Uk General", UK BET
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189904
+#EXTINF: -1 group-title="Uk General", UK Box Nation HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189910
+#EXTINF: -1 group-title="Uk General", UK CBS Justice
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189917
+#EXTINF: -1 group-title="Uk General", UK CBS Reality
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189918
+#EXTINF: -1 group-title="Uk General", UK Channel 4 HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189920
+#EXTINF: -1 group-title="Uk General", UK Channel 5
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189921
+#EXTINF: -1 group-title="Uk General", UK CNBC News
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189923
+#EXTINF: -1 group-title="Uk General", UK CNN HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189924
+#EXTINF: -1 group-title="Uk General", UK Colors
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189925
+#EXTINF: -1 group-title="Uk General", UK Colors Rishtey
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189926
+#EXTINF: -1 group-title="Uk General", UK Comedy Central Extra
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189928
+#EXTINF: -1 group-title="Uk General", UK: Comedy Central FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189929
+#EXTINF: -1 group-title="Uk General", UK Crime & Investigation HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189930
+#EXTINF: -1 group-title="Uk General", UK Dave HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189931
+#EXTINF: -1 group-title="Uk General", UK E!
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189941
+#EXTINF: -1 group-title="Uk General", UK Film 4 HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189945
+#EXTINF: -1 group-title="Uk General", UK Fox
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189948
+#EXTINF: -1 group-title="Uk General", UK Fox News HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189949
+#EXTINF: -1 group-title="Uk General", UK: France 24 English
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189950
+#EXTINF: -1 group-title="Uk General", UK Gold
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189951
+#EXTINF: -1 group-title="Uk General", UK Itv 4
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189961
+#EXTINF: -1 group-title="Uk General", UK ITVBE
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189962
+#EXTINF: -1 group-title="Uk General", UK London Live
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189965
+#EXTINF: -1 group-title="Uk General", UK: MTV FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189973
+#EXTINF: -1 group-title="Uk General", UK: MTV Rocks HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189976
+#EXTINF: -1 group-title="Uk General", UK: Nick Junior HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189981
+#EXTINF: -1 group-title="Uk General", UK: QUEST +1
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189987
+#EXTINF: -1 group-title="Uk General", UK: Quest Red HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189988
+#EXTINF: -1 group-title="Uk General", UK RTE 2
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189992
+#EXTINF: -1 group-title="Uk General", UK: RTE News Now
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189995
+#EXTINF: -1 group-title="Uk General", UK RTE One
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189996
+#EXTINF: -1 group-title="Uk General", UK Sab TV (SET)
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189998
+#EXTINF: -1 group-title="Uk General", UK Star Bharat
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190008
+#EXTINF: -1 group-title="Uk General", UK Star Gold
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190009
+#EXTINF: -1 group-title="Uk General", UK Star Plus
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190010
+#EXTINF: -1 group-title="Uk General", UK STV HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190011
+#EXTINF: -1 group-title="Uk General", UK Talking Pictures HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190013
+#EXTINF: -1 group-title="Uk General", UK TG4
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190015
+#EXTINF: -1 group-title="Uk General", UK TV3
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190023
+#EXTINF: -1 group-title="Uk General", UK Viceland HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190026
+#EXTINF: -1 group-title="Uk General", UK Watch
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190027
+#EXTINF: -1 group-title="Uk General", UK Yesterday HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190028
+#EXTINF: -1 group-title="Uk General", UK Zing
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190030
+#EXTINF: -1 group-title="Uk General", UK ITV 3
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/199506
+#EXTINF: -1 group-title="Uk General", UK: Clubland
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/208457
+#EXTINF: -1 group-title="Uk General", UK: capital Tv
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/208459
+#EXTINF: -1 group-title="Uk General", UK ITV 2
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391480
+#EXTINF: -1 group-title="Uk General", UK-L: MORE 4 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391498
+#EXTINF: -1 group-title="Uk General", UK Quest
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391501
+#EXTINF: -1 group-title="Uk General", UK-L: BBC SPORT SCOTLAND SD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391521
+#EXTINF: -1 group-title="Uk General", UK-L: BBC EARTH SD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391515
+#EXTINF: -1 group-title="Uk General", UK Blaze
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189905
+#EXTINF: -1 group-title="Uk General", UK CBBC
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189914
+#EXTINF: -1 group-title="Uk General", UK ITV 1
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/229024
+#EXTINF: -1 group-title="Uk General", UK BBC One Northern Ireland
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189895
+#EXTINF: -1 group-title="Uk General", UK Sony Channel
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190007
+#EXTINF: -1 group-title="Uk General", UK: 5 Select HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391500
+#EXTINF: -1 group-title="Uk General", UK-L: FOX EXTRA SD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/391317
+#EXTINF: -1 group-title="Uk General", UK Zee TV
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190029
+#EXTINF: -1 group-title="Uk General", UK Ary World
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189884
+#EXTINF: -1 group-title="Uk General", UK: BBC Alba
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189893
+#EXTINF: -1 group-title="Uk General", UK: Sky 2 FHD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515731
+#EXTINF: -1 group-title="Uk General", UK Sky Two
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190005
+#EXTINF: -1 group-title="Uk General", UK UTV Ireland
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190025
+#EXTINF: -1 group-title="Uk General", UK: Ahlulbayt TV
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/515037
+#EXTINF: -1 group-title="Uk General", UK 4SEVEN
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189872
+#EXTINF: -1 group-title="Uk General", UK Universal Channel HD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/190024
+#EXTINF: -1 group-title="Uk General", UK CBS Action
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189916
+#EXTINF: -1 group-title="Uk General", UK Aastha
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189877
+#EXTINF: -1 group-title="Uk General", UK Really
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189990
+#EXTINF: -1 group-title="Uk General", UK: Channel 5+1 SD
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/1038162
+#EXTINF: -1 group-title="Uk General", UK 5USA
+http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/189875
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Bangla India", Sony Aath HD
 https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 #EXTINF: -1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="Bangla India", Zee Bangla HD
