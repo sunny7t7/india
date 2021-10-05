@@ -53,6 +53,8 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
 #EXTINF: -1 tvg-name="Republic" group-title="News", Republic
 https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
+#EXTINF: -1 tvg-name="Colors HD 4K" group-title="Entertainment", Colors HD 4K
+http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
 #EXTINF: -1 tvg-name="Star Bharat HD" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928287235991913_star-bharat-hd.png" group-title="Entertainment", Star Bharat HD
 http://tvflixvip01.ddns.net//HINDI_STAR_BHARAT_HD/index.m3u8?token=test
 #EXTINF: -1 tvg-name="Star Bharat HD Global" group-title="Entertainment", Star Bharat HD Global
@@ -63,16 +65,14 @@ Http://182.176.169.29:7000/Play/A0Hk
 http://173.199.120.51/hls/chsp.m3u8
 #EXTINF: -1 tvg-name="Star Plus 4K" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/09/16/star.jpg" group-title="Entertainment", Star Plus 4K
 http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
-#EXTINF: -1 tvg-name="Sony Sab HDHttp://221.120.204.4/Sony-Sab-Lockle/Tracks-V1A1/Mono.M3U8" tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Entertainment", Sony Sab HD
-http://5stariptv.ddns.net/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="Zee TV 4K" tvg-logo="https://i.pinimg.com/originals/d0/04/95/d00495d07bb2f6e0856b9f8b92b9bf20.png" group-title="Entertainment", Zee TV 4K
 http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
 #EXTINF: -1 group-title="Entertainment", ZEE TV HD
 https://zee5-rds.herokuapp.com/?c=0-9-zeetvhd
+#EXTINF: -1 tvg-name="Sony Sab HDHttp://221.120.204.4/Sony-Sab-Lockle/Tracks-V1A1/Mono.M3U8" tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Entertainment", Sony Sab HD
+http://5stariptv.ddns.net/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="& TV HD" tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Entertainment", & TV HD
 https://zee5-rds.herokuapp.com/?c=0-9-tvhd_0
-#EXTINF: -1 tvg-name="Colors HD 4K" group-title="Entertainment", Colors HD 4K
-http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
 #EXTINF: -1 tvg-name="Dd National hD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Dd_national.jpg" group-title="Entertainment", Dd National HD
 https://zee5-rds.herokuapp.com/?c=0-9-250
 #EXTINF: -1 tvg-name="Zee Cinema 4K" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg" group-title="Movies", Zee Cinema 4K
