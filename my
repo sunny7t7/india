@@ -53,8 +53,6 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
 #EXTINF: -1 tvg-name="Republic" group-title="News", Republic
 https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
-#EXTINF: -1 tvg-name="Sony Sab HDHttp://221.120.204.4/Sony-Sab-Lockle/Tracks-V1A1/Mono.M3U8" tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Entertainment", Sony Sab HD
-Http://221.120.204.4/Sony-Sab-Lockle/Tracks-V1A1/Mono.M3U8
 #EXTINF: -1 tvg-name="Star Bharat HD" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928287235991913_star-bharat-hd.png" group-title="Entertainment", Star Bharat HD
 http://tvflixvip01.ddns.net//HINDI_STAR_BHARAT_HD/index.m3u8?token=test
 #EXTINF: -1 tvg-name="Star Bharat HD Global" group-title="Entertainment", Star Bharat HD Global
@@ -65,66 +63,28 @@ Http://182.176.169.29:7000/Play/A0Hk
 http://173.199.120.51/hls/chsp.m3u8
 #EXTINF: -1 tvg-name="Star Plus 4K" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/09/16/star.jpg" group-title="Entertainment", Star Plus 4K
 http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
+#EXTINF: -1 tvg-name="Sony Sab HDHttp://221.120.204.4/Sony-Sab-Lockle/Tracks-V1A1/Mono.M3U8" tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Entertainment", Sony Sab HD
+http://5stariptv.ddns.net/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="Zee TV 4K" tvg-logo="https://i.pinimg.com/originals/d0/04/95/d00495d07bb2f6e0856b9f8b92b9bf20.png" group-title="Entertainment", Zee TV 4K
 http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
 #EXTINF: -1 group-title="Entertainment", ZEE TV HD
 https://zee5-rds.herokuapp.com/?c=0-9-zeetvhd
 #EXTINF: -1 tvg-name="& TV HD" tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Entertainment", & TV HD
 https://zee5-rds.herokuapp.com/?c=0-9-tvhd_0
-#EXTINF: -1 tvg-name="& TV HDHttp://Iptvtree.Net:8080/Aumaleiptv/D051Xyzaef399Hp56/16964" tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Entertainment", & TV HD
-Http://Iptvtree.Net:8080/Aumaleiptv/D051Xyzaef399Hp56/16964
-#EXTINF: -1 tvg-name="&Tv" tvg-logo="https://s3images.zee5.com/wp-content/uploads/sites/3/2019/01/And-Tv-logo.png" group-title="Entertainment", &Tv
-http://182.176.169.29:7000/play/a0fa
-#EXTINF: -1 tvg-name="& TV HD" group-title="Entertainment", & TV HD
-http://tvflix2.ddns.net/bee-global/andtv/chunks.m3u8
-#EXTINF: -1 tvg-id="144" tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors HD
-https://jio.instream.ml/jio.php?c=Colors_HD&q=600&e=.m3u8
-#EXTINF: -1 tvg-name="Colors HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Entertainment", Colors HD
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="Colors HD 4K" group-title="Entertainment", Colors HD 4K
 http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
 #EXTINF: -1 tvg-name="Dd National hD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Dd_national.jpg" group-title="Entertainment", Dd National HD
 https://zee5-rds.herokuapp.com/?c=0-9-250
-#EXTINF: -1 tvg-name="Sony SabHttps://Jio.Instream.Ml/Jio.Php?C=Sony_Sab&Q=600&E=.M3U8" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment", Sony Sab
-Https://Jio.Instream.Ml/Jio.Php?C=Sony_Sab&Q=600&E=.M3U8
-#EXTINF: -1 tvg-name="Dd Retro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/DD_Retro.jpg" group-title="Entertainment", Dd Retro
-https://viacom-b.multitvsolution.com/dashv/ddretro.mpd
-#EXTINF: -1 tvg-name="Zee Cinema HDHttp://103.81.104.118/Hls/Stream25.M3U8" tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Movies", Zee Cinema HD
-Http://103.81.104.118/Hls/Stream25.M3U8
 #EXTINF: -1 tvg-name="Zee Cinema 4K" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg" group-title="Movies", Zee Cinema 4K
 http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
-#EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg" group-title="Movies", Zee Cinema HD
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="Zee Cinema HDHttps://Jio.Instream.Ml/Jio.Php?C=Zee_Cinema_Hd&Q=600&E=.M3U8" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
-Https://Jio.Instream.Ml/Jio.Php?C=Zee_Cinema_Hd&Q=600&E=.M3U8
 #EXTINF: -1 tvg-name="Sony-Max HD" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="Movies", Sony-Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="Sony Max HDHttps://Jio.Instream.Ml/Jio.Php?C=Sony_Max_Hd&Q=600&E=.M3U8" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony Max HD
 Https://Jio.Instream.Ml/Jio.Php?C=Sony_Max_Hd&Q=600&E=.M3U8
-#EXTINF: -1 tvg-name="Sony Max HD Dolby Sound" group-title="Movies", Sony Max HD Dolby Sound
-http://85.203.33.88/live/xIJYJ5P6113/Z80Gk09755/10156.m3u8
-#EXTINF: -1 tvg-name="Sony Max HD @ Rs 17Http://182.176.169.29:7000/Play/A0Fc" group-title="Movies", Sony Max HD @ Rs 17
-Http://182.176.169.29:7000/Play/A0Fc
-#EXTINF: -1 tvg-name="Sony Max HD (4)Http://Luckonline.Eu:8080/Live/Kjpypddrq4/8P1Plravdh/601.M3U8?Token=" tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Movies", Sony Max HD (4)
-Http://Luckonline.Eu:8080/Live/Kjpypddrq4/8P1Plravdh/601.M3U8?Token=
 #EXTINF: -1 tvg-name="&Pictures HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Movies", &Pictures HD
 https://zee5-rds.herokuapp.com/?c=0-9-tvpictureshd
 #EXTINF: -1 tvg-name="And Pictures HDHttps://Jio.Instream.Ml/Jio.Php?C=And_Pictures_Hd&Q=600&E=.M3U8" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", And Pictures HD
 Https://Jio.Instream.Ml/Jio.Php?C=And_Pictures_Hd&Q=600&E=.M3U8
-#EXTINF: -1 tvg-name="Star Gold Uk" group-title="Movies", Star Gold Uk
-http://185.246.209.207/HINDI_STAR_GOLD_HD_UK/index.m3u8?token=test
-#EXTINF: -1 tvg-name="Star Gold HD Global" group-title="Movies", Star Gold HD Global
-http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
-#EXTINF: -1 tvg-name="Star Gold HD" group-title="Movies", Star Gold HD
-http://tvflix03.ddns.net/ENC-10/index.m3u8
-#EXTINF: -1 tvg-name="Star Gold HD @ Rs 10Http://103.81.104.118/Hls/Stream19.M3U8" group-title="Movies", Star Gold HD @ Rs 10
-Http://103.81.104.118/Hls/Stream19.M3U8
-#EXTINF: -1 tvg-name="Colors Cineplex HD @ Rs 5Http://182.176.169.29:7000/Play/A0Ff" group-title="Movies", Colors Cineplex HD @ Rs 5
-Http://182.176.169.29:7000/Play/A0Ff
-#EXTINF: -1 tvg-name="Colors Cineplex HDHttps://Jio.Instream.Ml/Jio.Php?C=Colors_Cineplex_Hd&Q=600&E=.M3U8" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies", Colors Cineplex HD
-Https://Jio.Instream.Ml/Jio.Php?C=Colors_Cineplex_Hd&Q=600&E=.M3U8
-#EXTINF: -1 tvg-name="Colors Cineplex HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/LANDSCAPE_43/hLnucnRV.png" group-title="Movies", Colors Cineplex HD
-http://103.81.104.118/hls/stream29.m3u8
 #EXTINF: -1 tvg-name="Rishtey Cineplex HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmqpARPdA9dszIlkzX8EGVkiqvT0zjgMqfFyC7zzfKfS25uk7khVCjFqLdhOdGUXRET60&usqp=CAU" group-title="Movies", Rishtey Cineplex HD
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF: -1 tvg-name="Rasi Hindi HD" group-title="Movies", Rasi Hindi HD
@@ -141,88 +101,18 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF: -1 tvg-name="Rishtey Cineplex" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Movies", Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
-#EXTINF: -1 tvg-name="Zee CinemaHttps://Jio.Instream.Ml/Jio.Php?C=Zee_Cinema&Q=600&E=.M3U8" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies", Zee Cinema
-Https://Jio.Instream.Ml/Jio.Php?C=Zee_Cinema&Q=600&E=.M3U8
-#EXTINF: -1 tvg-name="Zee Cinema Uk" group-title="Movies", Zee Cinema Uk
-https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
-#EXTINF: -1 tvg-name="Zee Cinema Usa" group-title="Movies", Zee Cinema Usa
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
 #EXTINF: -1 tvg-name="Zee Anmol CinemaHttps://Y5W8J4A9.Ssl.Hwcdn.Net/Zanmolcnm/Index.M3U8" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmol/list/386x386/09zeeanmolzeeanmol.png" group-title="Movies", Zee Anmol Cinema
 Https://Y5W8J4A9.Ssl.Hwcdn.Net/Zanmolcnm/Index.M3U8
-#EXTINF: -1 tvg-name="&Pictures" group-title="Movies", &Pictures
-https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
-#EXTINF: -1 tvg-name="Gem Bollywood" group-title="Movies", Gem Bollywood
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist_960x540_2000k.m3u8
 #EXTINF: -1 tvg-name="Maha Movie" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2820.MahaMovie.in/en/1x1/208x208/test_pic1535464244460.jpg" group-title="Movies", Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF: -1 tvg-name="Sony Wah" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Movies", Sony Wah
-https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
-#EXTINF: -1 tvg-name="Zee Cinema" group-title="Movies", Zee Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
-#EXTINF: -1 tvg-name="Zee ClassicHttps://Y5W8J4A9.Ssl.Hwcdn.Net/Classic/Index.M3U8" tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="Movies", Zee Classic
-Https://Y5W8J4A9.Ssl.Hwcdn.Net/Classic/Index.M3U8
-#EXTINF: -1 tvg-name="And Pictures SDHttps://Y5W8J4A9.Ssl.Hwcdn.Net/Andpicssd/Index.M3U8" tvg-logo="https://i.imgur.com/KixHmqt.png" group-title="Movies", And Pictures SD
-Https://Y5W8J4A9.Ssl.Hwcdn.Net/Andpicssd/Index.M3U8
-#EXTINF: -1 tvg-name="Rishtey CineplexHttps://Viacom-B.Multitvsolution.Com/Viacomhls/Rishteycineplex_720P/Index.M3U8" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2019/04/rishtey-cineplex_1555156123.jpg" group-title="Movies", Rishtey Cineplex
-Https://Viacom-B.Multitvsolution.Com/Viacomhls/Rishteycineplex_720P/Index.M3U8
-#EXTINF: -1 tvg-name="Star Gold 2Http://84.17.41.7/Js_Moviesok_Hin/Mono.M3U8" tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Movies", Star Gold 2
-Http://84.17.41.7/Js_Moviesok_Hin/Mono.M3U8
-#EXTINF: -1 tvg-name="Zee BollywoodHttps://Jio.Instream.Ml/Jio.Php?C=Zee_Classic&Q=600&E=.M3U8" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Movies", Zee Bollywood
-Https://Jio.Instream.Ml/Jio.Php?C=Zee_Classic&Q=600&E=.M3U8
 #EXTINF: -1 tvg-name="Mbc Bollywood HD" group-title="Movies", Mbc Bollywood HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF: -1 tvg-name="Zee ActionHttps://Jio.Instream.Ml/Jio.Php?C=Zee_Action&Q=600&E=.M3U8" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies", Zee Action
-Https://Jio.Instream.Ml/Jio.Php?C=Zee_Action&Q=600&E=.M3U8
-#EXTINF: -1 tvg-name="B4U MoviesHttps://Jio.Instream.Ml/Jio.Php?C=B4U_Movies&Q=600&E=.M3U8" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies", B4U Movies
-Https://Jio.Instream.Ml/Jio.Php?C=B4U_Movies&Q=600&E=.M3U8
-#EXTINF: -1 tvg-name="Sony Max2Https://Jio.Instream.Ml/Jio.Php?C=Sony_Max2&Q=600&E=.M3U8" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies", Sony Max2
-Https://Jio.Instream.Ml/Jio.Php?C=Sony_Max2&Q=600&E=.M3U8
-#EXTINF: -1 tvg-name="Enterr 10Https://Jio.Instream.Ml/Jio.Php?C=Enterr_10&Q=600&E=.M3U8" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="Movies", Enterr 10
-Https://Jio.Instream.Ml/Jio.Php?C=Enterr_10&Q=600&E=.M3U8
-#EXTINF: -1 tvg-name="Colors CineplexHttps://Jio.Instream.Ml/Jio.Php?C=Colors_Cineplex&Q=600&E=.M3U8" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Movies", Colors Cineplex
-Https://Jio.Instream.Ml/Jio.Php?C=Colors_Cineplex&Q=600&E=.M3U8
 #EXTINF: -1 tvg-name="Zee Anmol Cinema" group-title="Movies", Zee Anmol Cinema
 https://zee5-rds.herokuapp.com/?c=0-9-zeeanmol
-#EXTINF: -1 tvg-name="Box CinemaHttps://Jio.Instream.Ml/Jio.Php?C=Box_Cinema&Q=600&E=.M3U8" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BOX_CINEMA.png" group-title="Movies", Box Cinema
-Https://Jio.Instream.Ml/Jio.Php?C=Box_Cinema&Q=600&E=.M3U8
-#EXTINF: -1 tvg-name="Maha MoviesHttps://Jio.Instream.Ml/Jio.Php?C=Maha_Movies&Q=600&E=.M3U8" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Movies", Maha Movies
-Https://Jio.Instream.Ml/Jio.Php?C=Maha_Movies&Q=600&E=.M3U8
-#EXTINF: -1 tvg-name="Dangal @ FreeHttp://182.176.169.29:7000/Play/A0Ie" group-title="Movies", Dangal @ Free
-Http://182.176.169.29:7000/Play/A0Ie
-#EXTINF: -1 tvg-name="Star Gold 2Http://84.17.41.7/Js_Moviesok_Hin/Mono.M3U8" tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Movies", Star Gold 2
-Http://84.17.41.7/Js_Moviesok_Hin/Mono.M3U8
-#EXTINF: -1 tvg-name="Utv Action (2)Http://103.81.104.118/Hls/Stream7.M3U8" tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Movies", Utv Action (2)
-Http://103.81.104.118/Hls/Stream7.M3U8
-#EXTINF: -1 tvg-name="Rasi Classic HD" group-title="Movies", Rasi Classic HD
-http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
-#EXTINF: -1 tvg-name="Box Cinema" group-title="Movies", Box Cinema
-https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
-#EXTINF: -1 tvg-name="Sky Sports HD Global" group-title="Sports", Sky Sports HD Global
-http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb48364dc6f3803029c84ed58a99bb56993ad53fb5d103eb54030890c8a99ff4d4ac3df2b32b6f274da890d382b30dbbaee94619c48122e2ce4f255bff964a5f91fa65450ec4f90d87a41a97b8e880ded9587fb15437c977&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
-#EXTINF: -1 tvg-name="Willow HD" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports", Willow HD
-http://www.luckonline.eu:8080/live/KjPypddrq4/8p1pLrAVDh/517.m3u8
-#EXTINF: -1 tvg-name="Sony Six HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="Sports", Sony Six HD
-http://173.199.120.51/hls/sonysix.m3u8
-#EXTINF: -1 tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png" group-title="Sports", Fox Sports
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF: -1 tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png" group-title="Sports", Fox Sports 2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF: -1 tvg-name="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png" group-title="Sports", Fox Sports 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF: -1 tvg-name="Star Sports 1 HD @ Rs 19Http://182.176.169.29:7000/Play/A0F4" group-title="Sports", Star Sports 1 HD @ Rs 19
-Http://182.176.169.29:7000/Play/A0F4
-#EXTINF: -1 tvg-name="Star Sports 2 HD @ Rs 19Http://182.176.169.29:7000/Play/A0F3" group-title="Sports", Star Sports 2 HD @ Rs 19
-Http://182.176.169.29:7000/Play/A0F3
-#EXTINF: -1 tvg-name="Star Sports 1 HD Hindi @ Rs 19Http://182.176.169.29:7000/Play/A0Hv" group-title="Sports", Star Sports 1 HD Hindi @ Rs 19
-Http://182.176.169.29:7000/Play/A0Hv
-#EXTINF: -1 tvg-name="Star Sports Select 1 HD @ Rs 19Http://182.176.169.29:7000/Play/A0Ex" group-title="Sports", Star Sports Select 1 HD @ Rs 19
-Http://182.176.169.29:7000/Play/A0Ex
-#EXTINF: -1 tvg-name="Star Sports Select 2 HD @ Rs 10Http://182.176.169.29:7000/Play/A0Fd" group-title="Sports", Star Sports Select 2 HD @ Rs 10
-Http://182.176.169.29:7000/Play/A0Fd
-#EXTINF: -1 tvg-name="Star Sports 1 Hindi C" group-title="Sports", Star Sports 1 Hindi C
-http://dt1q9ova10xfm.cloudfront.net/hgdf32.m3u8
-#EXTINF: -1 tvg-name="S Cricket" tvg-logo="https://stuff.co.za/wp-content/uploads/2020/08/placeholder.png" group-title="Sports", S Cricket
-http://nwbz1u.ecm.tm/806B6CF/89181e/SR_SS2_HD/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8d30e301782cfd952ef8d6f27fc7afe88f4fde17df92ea28974dd12502b0d750cccdbeb6977499fae4167e90e4b5c084705623a9c7cbcd376060ee03a5d239b0ad122479676cfcf71b5d712805a39860bfe2fc25d6c93ab47a&mac=00:1A:79:51:A2:B8&ip=202.134.8.137&magic_server=MAIN_MP
+#EXTINF: -1 group-title="Sports", Astro Cricket
+http://mu03ye.wanicelife.com:8880/YALM4649/y6q3fhltq/71109
+#EXTINF: -1 tvg-name="Star Sports 1 HD" group-title="Sports", Star Sports 1 HD
+http://tvflix00.hopto.org/hls/chsp1.m3u8
 #EXTINF: -1 tvg-name="Sony Ten 1 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports", Sony Ten 1 HD
 https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #EXTINF: -1 tvg-name="Sony Ten 2 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="Sports", Sony Ten 2 HD
